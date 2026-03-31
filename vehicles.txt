@@ -1,0 +1,3 @@
+Car,TST100,Toyota,Corolla,2020,Available,5
+Car,BBB222,Honda,Civic,2021,Available
+Car,AAA111,Toyota,Corolla,2019,Available
